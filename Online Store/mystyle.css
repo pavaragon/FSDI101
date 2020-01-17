@@ -1,0 +1,145 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: #dddddd;
+}
+
+h1{
+    text-align: center;
+    font-size: 35px;
+    background-image: url(img/banner.jpg);
+    height: 100px;
+    background-position: center center;
+    padding-top: 100px;
+    color: #0400db;
+    text-shadow: 3px 2px grey;
+    letter-spacing: 5px;
+}
+
+.menu { 
+    margin-left: 25%;
+}
+
+ul li{
+    float: left;
+    list-style-type: none;
+    list-style-position: inside;
+    color: aliceblue;
+    background-color: #b8aaff;
+    font-size: 15px;
+    border-bottom: 2px solid black;
+    width: 20%;
+    height: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    margin: 0px;
+}
+
+.sectionTitle{
+
+    background-color:#b8aaff;
+    font-size: 16px;
+    color: white;
+    width: 99%;
+    padding-left: 10px;
+
+}
+
+h3{
+    color: aliceblue;
+    background-color: #b8aaff;
+    font-size: 15px;
+    border-bottom: 2px solid black;
+    width: 20%;
+    height: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    margin: 0px;
+}
+
+h3 a:hover{
+    color: blue;
+}
+
+#imglocation{
+    width: 45%;
+    border: 8px solid white;
+    border-radius: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.8;
+}
+
+#imglocation:hover{
+    transform: scale(1.5);
+}
+
+p{
+    color: black;
+    font-size: 14px;
+    text-align: left;
+}
+
+a{
+        text-decoration: none;
+        color: white;
+}
+h4{
+    position: relative;
+    background-position: center center;
+  
+    background-position: left center;
+    color: #0400db;
+    text-align: center;
+}
+
+.products{
+    color: white;
+    width: 30%;
+    height: 30%;
+    border: 8px solid black;
+    border-radius: 5px;
+    opacity: 0.8;
+    margin: 1px;
+    float: left;    
+}
+
+.abstract{
+    background-color: white;
+    text-align: justify;
+    padding: 30px;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    text-indent: 20px;
+}
+
+h2{
+    color: black;
+    text-align: center;
+    font-size: 24px;
+    border-bottom: 1px solid white;
+    padding-bottom: 10px;
+}
+.text{
+    text-align: center;
+    font-size: 18px;
+    word-spacing: 3px;
+    background: white;
+    padding: 5px;
+    text-indent: 10px;
+    border-radius: 8px;
+    background-blend-mode: lighten;
+}
+
+ol{
+    color: black;
+}
+h5{
+    color: black;
+    margin-left: auto;
+    margin-block-end: auto;
+    text-align: center;
+}
